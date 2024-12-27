@@ -1,0 +1,6 @@
+running java jenkins = java -jar "C:\Users\Stark\Downloads\jenkins.war" -httpPort=9090
+
+user=endros
+password=endros
+
+
